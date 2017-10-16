@@ -1,3 +1,5 @@
 # hello-world
 
-这里可以写一些关于自己的东西
+Hello HUmans!
+
+I am a graduating college student. I have come to study in GitHub for the first time. Please give me some advice,thanks!
